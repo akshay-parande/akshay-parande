@@ -39,6 +39,4 @@
 <div align="center">
     <div>
         <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-parande&show_icons=true&locale=en" alt="akshay-parande" /></p></div>
-    <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-parande&locale=en&hide_title=false&layout=compact&card_width=320&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  /></div>
 </div>
