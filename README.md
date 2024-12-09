@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am AKSHAY PARANDE<br><br>A passionate web developer from India</h1>
+<h1 align="center">Hi 👋, I am AKSHAY PARANDE<br><br>A programmer with lots of interest in cyber security and ethical hacking.</h1>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=akshay-parande&abel=Profile%20views&color=0e75b6&style=flat" alt="akshay-parande" />
 </p>
